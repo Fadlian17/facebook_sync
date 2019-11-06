@@ -1,6 +1,8 @@
 # facebook_sync
 
-A new Flutter application.
+Strings.XML can Replace with your Facebook App ID
+
+![](strings_facebook.png)
 
 ## Getting Started
 
