@@ -4,6 +4,8 @@ Strings.XML can Replace with your Facebook App ID
 
 ![](strings_facebook.png)
 
+reference https://developers.facebook.com/docs/facebook-login/android
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
